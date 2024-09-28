@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an operations managment tool and also developing some drivers for linux<br>👯 I’m looking to collaborate on the official linux kernel repo<br>🌱 I’m currently learning linux kernel development
+🔭 I’m currently working on an operations managment tool and also developing some drivers for linux<br>👯 I’m looking to collaborate on the official linux kernel repo<br>🌱 I’m learning linux kernel development and other low-level stuff
 
 
 ## 🌐 Socials:
