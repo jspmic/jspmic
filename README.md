@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on a local transport managment app and also developing some drivers for linux<br>👯 I’m looking to collaborate on the official linux kernel repo<br>🌱 I’m learning asm x86, numerical methods(applied in C) and also to touch some grass😊
+# 📓 About Me:
+🔭 I’m currently working on a local transport managment app and also developing some drivers for linux<br><br>👯 I’m looking to collaborate on the official linux kernel repo and to touch some grass when all has been said and done😊(which means never ,'cause after all we're computer people, we don't go out😌)<br><br>🌱 I’m learning asm x86, kernel architecture and root-finding methods + optimization techniques(applied in C)
 
 
 ## 🌐 Socials:
