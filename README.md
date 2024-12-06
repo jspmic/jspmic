@@ -11,10 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=jspmic&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jspmic&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jspmic&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl&animation=grow_out_in&layout=zues&font=default&quoteType=random)
-<!--[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)-->
-
----
-[![](https://visitcount.itsvg.in/api?id=jspmic&icon=2&color=0)](https://visitcount.itsvg.in)
